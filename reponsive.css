@@ -1,0 +1,115 @@
+@media (min-width: 992px) and (max-width: 1199.99px) {
+    .about-img:before {
+        left: -14px;
+        top: 78px;
+    }
+    .about-area {
+        padding: 70px 0 80px;
+    }
+    .about-img:after {
+        left: -10px;
+        top: 75px;
+    }
+    .footer-single a {
+        color: #fff;
+        font-size: 16px;
+    }
+    .footer-single li {
+        padding-left: 108px;
+    }
+    .about-content {
+        padding: 50px 0px 40px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .footer-single {
+        margin-bottom: 60px;
+    }
+    .footer-single li {
+        padding-left: 30px;
+        margin-bottom: 10px;
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .footer-single li span {
+        font-size: 30px;
+        border: none;
+        width: 0px;
+        height: 0;
+        font-size: 30px;
+        text-align: center;
+        line-height: 0;
+    }
+    .footer-single {
+        margin-bottom: 0;
+    }
+    .footer-item {
+        padding: 70px 0;
+    }
+    .about-area {
+        padding: 70px 0 78px;
+    }
+    .about-content {
+        padding: 65px 0px 0px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .service-area {
+        padding: 70px 0 0px;
+    }
+
+    .btn-style2 a {
+        width: 100px;
+    }
+    .btn-style2 a:before {
+        width: 39px;
+    }
+    .service-single {
+        margin-bottom: 50px;
+    }
+    .footer-single {
+        margin-bottom: 75px;
+    }
+    .about-area {
+        padding: 70px 0 40px;
+    }
+    .about-img:before {
+        left: 35px;
+        top: 54px;
+        width: 220px;
+        height: 220px;
+    }
+    .about-img:after {
+        left: 35px;
+        top: 51px;
+        width: 220px;
+        height: 220px;
+    }
+    .footer-item {
+        padding: 70px 0 0px;
+    }
+
+    .footer-single li {
+        font-size: 14px;
+        padding-left: 90px;
+    }
+    .footer-single li span {
+        width: 60px;
+        height: 60px;
+        font-size: 30px;
+        line-height: 60px;
+    }
+    .contact-area {
+        padding: 60px 0px 45px;
+    }
+    
+    .footer-sub-content ul {
+        justify-content: center;
+    }
+    .footer-sub-content span {
+        padding-bottom: 10px;
+    }
+    
+}
